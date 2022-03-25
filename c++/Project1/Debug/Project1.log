@@ -1,3 +1,0 @@
-﻿  소스.cpp
-C:\Users\gotsl\Desktop\c++\Project1\소스.cpp(28,6): error C2374: 'area1': 재정의. 여러 번 초기화했습니다.
-C:\Users\gotsl\Desktop\c++\Project1\소스.cpp(24): message : 'area1' 선언을 참조하십시오.
