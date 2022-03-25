@@ -1,0 +1,8 @@
+﻿  Circle.cpp
+  소스.cpp
+  Point.cpp
+C:\Users\gotsl\Desktop\c++\Project1\Point.cpp(9,16): error C2084: 'Point::Point(void)' 함수에 이미 본문이 있습니다.
+C:\Users\gotsl\Desktop\c++\Project1\Point.cpp(6): message : '{ctor}'의 이전 정의를 참조하십시오.
+C:\Users\gotsl\Desktop\c++\Project1\Point.cpp(10,28): error C2084: 'Point::Point(int,int)' 함수에 이미 본문이 있습니다.
+C:\Users\gotsl\Desktop\c++\Project1\Point.cpp(7): message : '{ctor}'의 이전 정의를 참조하십시오.
+  코드를 생성하고 있습니다...
